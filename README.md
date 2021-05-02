@@ -1,6 +1,6 @@
-### Hi! I am [Alamin Howlader][website]
+## Hi! I am [Alamin Howlader][website]
 
-## I love programming
+### I love programming
 
 ### Connect with me:
 

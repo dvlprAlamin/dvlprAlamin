@@ -23,17 +23,15 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://i.ibb.co/XLLvh3f/js.png" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://i.ibb.co/p4ynHSD/bootstrap.png" />
+<img align="left" alt="bootstrap" width="26px" src="https://i.ibb.co/p4ynHSD/bootstrap.png" />
 
-<img align="left" alt="React" width="26px" src="https://i.ibb.co/09ZsRPH/material-ui.png" />
+<img align="left" alt="Material-ui" width="26px" src="https://i.ibb.co/09ZsRPH/material-ui.png" />
 
 <img align="left" alt="React" width="26px" src="https://i.ibb.co/jD7j5Gv/react.png" />
 
-<img align="left" alt="React" width="26px" src="https://i.ibb.co/Tmv6dRF/redux.png" />
+<img align="left" alt="Node.js" width="26px" src="https://i.ibb.co/GF9MYQn/node.png" />
 
-<img align="left" alt="Node.js" width="26px" src="https://i.ibb.co/FDKqqBY/node.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://i.ibb.co/KWqj3CS/express.jpg" />
+<img align="left" alt="Express.js" width="26px" src="https://i.ibb.co/nrbPzJp/express.png" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://i.ibb.co/YhgVLd0/mongodb.png" />
 

@@ -25,7 +25,7 @@
 
 <img align="left" alt="bootstrap" width="26px" src="https://i.ibb.co/p4ynHSD/bootstrap.png" />
 
-<img align="left" alt="Material-ui" width="26px" src="https://i.ibb.co/09ZsRPH/material-ui.png" />
+<img align="left" alt="Material-ui" width="26px" src="https://i.ibb.co/HThxRY8/material-ui.png" />
 
 <img align="left" alt="React" width="26px" src="https://i.ibb.co/jD7j5Gv/react.png" />
 

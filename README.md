@@ -1,6 +1,6 @@
 ## Hi! I am [Alamin Howlader][website]
 
-### I love programming
+### JavaScript Lover
 
 ### Connect with me:
 
@@ -33,7 +33,7 @@
 
 <img align="left" alt="Express.js" width="26px" src="https://i.ibb.co/nrbPzJp/express.png" />
 
-<img align="left" alt="MongoDB" width="26px" src="https://i.ibb.co/YhgVLd0/mongodb.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://i.ibb.co/f4pzGjH/mongodb.png" />
 
 <img align="left" alt="Git" width="26px" src="https://i.ibb.co/mhxBpgM/reactbootstrap.png" />
 

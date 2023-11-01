@@ -53,8 +53,8 @@
 
 <br />
 <br />
-<img width="550px" alt="Alamin Howlader Github Stats"  src="https://github-readme-stats.vercel.app/api?username=dvlprAlamin&show_icons=true"/>
+<!-- <img width="550px" alt="Alamin Howlader Github Stats"  src="https://github-readme-stats.vercel.app/api?username=dvlprAlamin&show_icons=true"/> -->
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=dvlprAlamin&card_width=550)](https://github.com/dvlpaAlamin/dvlpaAlamin)
+<!-- [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=dvlprAlamin&card_width=550)](https://github.com/dvlpaAlamin/dvlpaAlamin) -->
 
 [website]: http://dvlpralamin.netlify.app/
